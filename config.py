@@ -7,8 +7,8 @@ API_HASH = os.environ.get("API_HASH", "bd495db96a52b1d9381657704e629b95")
 OWNER = int(os.environ.get("OWNER", "1502465002"))
 BOT_USERNAME = os.environ.get('BOT_USERNAME', "")
 
-FORCE_SUBS = os.environ.get("FORCE_SUBS", "1502465002")
-LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", ""))
+FORCE_SUBS = os.environ.get("FORCE_SUBS", "")
+LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002537080415"))
 
 DB_URL = os.environ.get("DB_URL", "mongodb+srv://lokah:lokah@lokah.hm66ghl.mongodb.net/?retryWrites=true&w=majority&appName=Lokah")
 DB_NAME = os.environ.get("DB_NAME", "renamebot-premium")
