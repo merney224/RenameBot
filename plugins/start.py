@@ -68,7 +68,7 @@ async def send_doc(client, message):
     botdata(int(botid))
     bot_data = find_one(int(botid))
     prrename = bot_data.get('total_rename', 0)
-    prsize = bot_data['total_size']
+    prsize = bot_data.get('total_size', 0)
     user_deta = find_one(user_id)
     used_date = user_deta["date"]
     buy_date = user_deta["prexdate"]
