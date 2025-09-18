@@ -13,7 +13,7 @@ LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002933718411"))
 DB_URL = os.environ.get("DB_URL", "mongodb+srv://variko4322_db_user:Neymarjr@cluster0.cdlal9p.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DB_NAME = os.environ.get("DB_NAME", "Cluster0")
 
-STRING = os.environ.get("STRING", "BQCEW4EeuFlxOgnqbBx6xIZDCjhEI8WNVt29Z6AtLL-OozpUF6et-QEt1Ujrj3z8xBgPYqfdoNana1V5BXr9n1RRp6GRVygCNcHCeMfaMOguce1GT3sOFjsUehlIy4QSzLed3_zRC-zy6mgXBQDARi2ZHT6xoQS9J6nRsWEKoIOBHaFaQCM316Wfp2o4LkyGjs3JgLtYrUUA-w6daP6WE9bMRequzkNYXkvfh1nZZIK1sgg95evbhvbqe7gHlraKWR6fMZjxSAFEEJ8zhugE7wGHtC_qugGgZ6Hy4-ilbDz5dzt9s-AiPmTfJ4GKb0jQkXtYn8qZovmAaiakgTYV67miAAAAAYiHvBkA")
+STRING = os.environ.get("STRING", "BQEpQroAHcjAE1qscT6TfrehyPjCFB9VrqWJuBvfjmfN5Yl5XmZhCIkjWeYrxmXx_GKpn8nAskYy6g4eNA5TVnSScPJ4rSZ64FT2bLVz3kq_DawqHhb73uFXHUrEZ-KKnushgYpO88hV-6Qt5XpzEdjca9j80axcKN_QZL9bLpqot2GJRx2dk3Tncepd1f-gF_Y3AanXL0OxSkVCYAQ2BG6uuPWMJ90At-P7l4FyCXbc1RhQOdAflHXInUh0xCWYBZNxx6UYaZTV6HjpJZqN2lnCuSYW7ZBPnT-YXXxgMxnkGwp5GPKEwGiJYti7gWW7JsJCucnXur2srawb8LVLmkHJfc_CKgAAAAGIh7wZAA")
 BOT_PIC = os.environ.get("BOT_PIC", "https://graph.org/file/cca849a2f63053fa3f622.jpg")
 
 
